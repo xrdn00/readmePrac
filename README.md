@@ -18,3 +18,7 @@ Test for paragraph or sentence
 def codeblock():
     print("Hello World")
 ```
+
+*bullet1
+*bullet2
+*bullet3
