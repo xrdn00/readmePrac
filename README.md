@@ -19,6 +19,6 @@ def codeblock():
     print("Hello World")
 ```
 
--bullet1
--bullet2
--bullet3
+- bullet1
+- bullet2
+- bullet3
