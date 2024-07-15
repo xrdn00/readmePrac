@@ -23,6 +23,6 @@ def codeblock():
 - bullet2
 - bullet3
 
-# Link and Section
+# Link and Another Section
 
 [Link](https://github.com/xrdn00/readmePrac)
