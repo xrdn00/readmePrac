@@ -5,3 +5,5 @@
 ### test 3 for triple sharp
 
 Test for paragraph or sentence
+
+**testing for bold letters**
