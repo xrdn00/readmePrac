@@ -29,5 +29,5 @@ def codeblock():
 
 + test
 - [x] test 1
-- [x][+] add
-- [x][+] add
+- [x] [+] add
+- [x] [+] add
